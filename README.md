@@ -14,16 +14,13 @@ It is the frontend react-app that allow the user to create todo-list. The app ha
 - Jsx
 
 
-## Live Demo
- [Live Demo](https://admiring-archimedes-28c005.netlify.app/)
-
-
 ## screenshoot
 
-![](images/screen.png)
+![](src/images/screen.png)
 
 
- [Live demo project](https://rawcdn.githack.com/nellencr/clone-of-apple.com/5603a43bbdd4107e957aebecd02a38b4f160353a/index.html)
+## Live Demo
+ [Live Demo](https://admiring-archimedes-28c005.netlify.app/)
 
 
 👤 **Author**
