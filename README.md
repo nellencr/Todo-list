@@ -20,7 +20,7 @@ It is the frontend react-app that allow the user to create todo-list. The app ha
 
 
 ## Live Demo
- [Live Demo](https://admiring-archimedes-28c005.netlify.app/)
+ [Live Demo](https://blissful-blackwell-835e7c.netlify.app/)
 
 
 👤 **Author**
